@@ -1,0 +1,15 @@
+*.csv
+*.xlsx
+*.xls
+*.gdb
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.xml
+*.shx
+*.7z
+*.zip
+*.ini
