@@ -13,3 +13,6 @@
 *.7z
 *.zip
 *.ini
+*.pdf
+FinalLightBox/*
+property_point_all/*
